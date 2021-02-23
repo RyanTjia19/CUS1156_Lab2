@@ -1,7 +1,14 @@
+/* Project: Lab9
+* Class: UniqueWords.java
+* Author: Ryan Tjia
+* Date: 02/23/21
+* This program, after some modifications, will determine
+* how many unique words there are in an ArrayList
+*/
+
 import java.util.ArrayList;
 
-public class UniqueWords
-{
+public class UniqueWords {
    /**
 		counts the number of unique strings in a list
 		@param list ArrayList of strings to be examined
