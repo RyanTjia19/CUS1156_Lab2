@@ -1,4 +1,4 @@
-/* Project: Lab9
+/* Project: Lab 2
 * Class: UniqueWords.java
 * Author: Ryan Tjia
 * Date: 02/23/21
@@ -39,6 +39,8 @@ public class UniqueWords {
       
 	  return count;
 }
+
+//-------------------------------------------
 
    public static void main(String[] args) {
 	  ArrayList <String> words = new ArrayList<>();
